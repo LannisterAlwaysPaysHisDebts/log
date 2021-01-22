@@ -1,6 +1,8 @@
 {
     "name": "cao/plog",
+    "homepage": "https://github.com/LannisterAlwaysPaysHisDebts/plog",
     "type": "library",
+    "license": "MIT",
     "require": {
         "monolog/monolog": "^1.26"
     },
