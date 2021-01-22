@@ -1,0 +1,13 @@
+{
+    "name": "cao/plog",
+    "type": "library",
+    "require": {
+        "monolog/monolog": "^1.26"
+    },
+    "authors": [
+        {
+            "name": "cao",
+            "email": "307298900@qq.com"
+        }
+    ]
+}
