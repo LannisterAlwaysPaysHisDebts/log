@@ -16,5 +16,6 @@
         "psr-4": {
             "Cao\\Plog\\": "src/log"
         }
-    }
+    },
+    "description": "a logger program based on monolog"
 }
