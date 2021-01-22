@@ -11,5 +11,10 @@
             "name": "cao",
             "email": "307298900@qq.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Cao\\Plog\\": "src/log"
+        }
+    }
 }

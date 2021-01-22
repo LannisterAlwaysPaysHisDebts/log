@@ -1,6 +1,6 @@
 <?php
 
-namespace plog;
+namespace Cao\Plog;
 
 use \Monolog\Logger;
 use \Monolog\Handler\StreamHandler;
