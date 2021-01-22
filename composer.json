@@ -1,20 +1,22 @@
 {
     "name": "cao/plog",
     "homepage": "https://github.com/LannisterAlwaysPaysHisDebts/plog",
+    "keywords": ["log"],
     "type": "library",
     "license": "MIT",
     "require": {
+        "php": ">=5.3.0",
         "monolog/monolog": "^1.26"
     },
     "authors": [
         {
             "name": "cao",
-            "email": "307298900@qq.com"
+            "email": "worldelitecao@foxmail.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Cao\\Plog\\": "src/log"
+            "Plog\\": "src/Log"
         }
     },
     "description": "a logger program based on monolog"
